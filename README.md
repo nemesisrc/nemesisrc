@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/nemesisrc](https://github.com/nemesisrc)
 
-- 📫 How to reach me **rajdeepchakraboty.asansol@gmail.com**
+- 📫 How to reach me **rajdeepchakraborty.asansol@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
