@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)]
+![MasterHead](https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif)
 <h1 align="center">Hi 👋, I'm Rajdeep Chakraborty</h1>
 <h3 align="center">A passionate backend developer from Kolkata,India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
